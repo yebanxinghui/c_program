@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1510143465 source:e:\c语言模拟\储存变量extern寻外部变量\ex5_6_1.c
+	"ex5_6_1.h"
+
+1510143685 e:\c语言模拟\储存变量extern寻外部变量\ex5_6_1.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1510143576 source:e:\c语言模拟\储存变量extern寻外部变量\ex5_6_2.c
+	"ex5_6_1.h"
+

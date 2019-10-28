@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1567584415 source:e:\c_program\test.c
+	<stdio.h>
+	<string.h>
+
+1540461958 source:e:\课件\text011.c
+	<stdio.h>
+	<math.h>
+
+1540542785 source:e:\课件\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1544529824 source:e:\c_program\随便.c
+	<stdio.h>
+
+1541058027 source:e:\课件\20181101-110224(1).c
+	<stdio.h>
+	<math.h>
+
+1541674562 source:e:\课件\数据结构题集(c语言版)\实验1.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1542775554 source:e:\课件\experiment3.5.c
+	<stdio.h>
+	<math.h>
+
+1542869649 source:e:\课件\数据结构题集(c语言版)\2018-数据结构实验（2017级）\2017-数据结构实验（2016级）\实验2.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1544704477 source:e:\课件\实验3测试.cpp
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	<iostream>
+

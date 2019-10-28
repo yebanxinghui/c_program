@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1528991077 source:e:\c_program\project\suibian\main.c
+	<stdio.h>
+
+1542106896 source:e:\c\c语言实验报告\c3\untitled4.c
+	<stdio.h>
+
+1542873016 source:e:\c_program\test.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1542872717 source:e:\cpp\test.cpp
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
